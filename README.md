@@ -57,7 +57,7 @@ Miembros del equipo
 
 :book: Bootcamp DevOps Engineer
 
-<img src="./daniel.png" width=300 height=300>
+<img src="./daniel.jfif" width=300 height=300>
 
 :man: Daniel Barrionuevo
 
