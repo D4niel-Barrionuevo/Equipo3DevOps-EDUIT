@@ -1,39 +1,61 @@
-# Equipo 3 DevOps-EDUIT
-Repositorio para la tercera fase del bootcamp de DevOps - EDUIT
+# Equipo 3 DevOps - Educación IT
+Miembros del equipo
 
-Integrantes:
+### **Product Owner:**
 
-PO:
+![](https://codimd.s3.shivering-isles.com/demo/uploads/74332826-a9d3-4d48-93e4-f05dcbde749d.jfif)
 
-Nombre: Ariel Coronel
-Correo: ariel256@gmail.com
-LinkedIn: https://www.linkedin.com/in/gustavo-ariel-coronel/
-Rol laboral: PHP Software Developer
-Carrera: DevOps Bootcamp
+:man: Ariel Coronel
+:envelope: ariel256@gmail.com
+:link: www.linkedin.com/in/gustavo-ariel-coronel/
+:briefcase: PHP Software Developer
+:book: Bootcamp DevOps Engineer
 
-Scrum Master: 
+		
+### **Scrum Master:**
 
-Nicolas Barisci - ngbarisci@gmail.com
-Soporte tecnico - DevOps Bootcamp
-Linkedin: https://www.linkedin.com/in/nicolas-gabriel-barisci-605283147/
+![](https://codimd.s3.shivering-isles.com/demo/uploads/74332826-a9d3-4d48-93e4-f05dcbde749d.jfif)
 
-Programadores:
+:man: Nicolas Barisci 
+:envelope: ngbarisci@gmail.com
+:link: www.linkedin.com/in/nicolas-gabriel-barisci-605283147/
+:briefcase: Soporte técnico
+:book: Bootcamp DevOps Engineer
 
-Franco Nicolás Carabelli - fnicolas.carabelli@gmail.com
-Estudiante - DevOps Bootcamp
-Linkedin: https://www.linkedin.com/in/nico-carabelli/
+### **Programadores:**
 
-Leandro Ezequiel Gretes - mail ezek_2004@hotmail.com
-Administracion - DevOps Bootcamp
-Linkedin: https://www.linkedin.com/in/leandro-ezequiel-fretes-b700531b2/
+![](https://codimd.s3.shivering-isles.com/demo/uploads/74332826-a9d3-4d48-93e4-f05dcbde749d.jfif)
 
-Daniel Barrionuevo - daniee.barrionuevo@gmail.com
-IT Desktop Tech - DevOps Bootcamp
-Linkedin: https://www.linkedin.com/in/daniel-barrionuevo-3669791b6/
+:man: Franco Nicolás Carabelli
+:envelope: fnicolas.carabelli@gmail.com 
+:link: www.linkedin.com/in/nico-carabelli/
+:briefcase: Estudiante 
+:book: Bootcamp DevOps Engineer
 
-Johnny Sandoval Perdomo - jsandoval_perdomo@hotmail.com
-Lider Tecnología - DevOps Bootcamp
-Linkedin: www.linkedin.com/in/johnnysandovalp
 
+![](https://codimd.s3.shivering-isles.com/demo/uploads/74332826-a9d3-4d48-93e4-f05dcbde749d.jfif)
+
+:man: Leandro Ezequiel Gretes 
+:envelope: mail ezek_2004@hotmail.com
+:link: www.linkedin.com/in/leandro-ezequiel-fretes-b700531b2/
+:briefcase: Administración 
+:book: Bootcamp DevOps Engineer
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/74332826-a9d3-4d48-93e4-f05dcbde749d.jfif)
+
+:man: Daniel Barrionuevo
+:envelope: daniee.barrionuevo@gmail.com
+:link: www.linkedin.com/in/daniel-barrionuevo-3669791b6/
+:briefcase: IT Desktop Tech
+:book: Bootcamp DevOps Engineer
+
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/74332826-a9d3-4d48-93e4-f05dcbde749d.jfif)
+
+:man: Johnny Sandoval Perdomo 
+:envelope: jsandoval_perdomo@hotmail.com
+:link: www.linkedin.com/in/johnnysandovalp
+:briefcase: Lider Tecnología
+:book: Bootcamp DevOps Engineer
 
 
