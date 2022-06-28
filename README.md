@@ -35,5 +35,7 @@ Johnny Sandoval Perdomo - jsandoval_perdomo@hotmail.com
 Lider Tecnología - DevOps Bootcamp
 Linkedin: www.linkedin.com/in/johnnysandovalp
 
-
+Joaquín Mario Andrés Orue - joaquin.orue@gmail.com
+Cloud Engineer - DevOps Bootcamp
+Linkedin: https://www.linkedin.com/in/joaquin-orue-501737a2/
 
