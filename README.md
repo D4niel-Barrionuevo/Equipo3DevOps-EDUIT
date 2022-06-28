@@ -83,7 +83,7 @@ Miembros del equipo
 :book: Bootcamp DevOps Engineer
 
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/rodri.jpeg)
+![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/rodri.jpeg =50x50)
 
 :man: Rodrigo Riedel
 
