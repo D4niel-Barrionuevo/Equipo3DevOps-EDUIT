@@ -3,7 +3,7 @@ Miembros del equipo
 
 ### **Product Owner:**
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/descarga.png)
+![](https://avatars.githubusercontent.com/u/34380101?v=4)
 
 :man: Ariel Coronel
 
