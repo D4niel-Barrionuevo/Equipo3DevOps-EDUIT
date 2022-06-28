@@ -3,7 +3,7 @@ Miembros del equipo
 
 ### **Product Owner:**
 
-![](https://avatars.githubusercontent.com/u/34380101?v=4)
+![](https://github.com/kekosoftware/kekosoftware/blob/main/imgAriel.png)
 
 :man: Ariel Coronel
 
