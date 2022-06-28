@@ -1,4 +1,4 @@
-# Equipo3DevOps-EDUIT
+# Equipo 3 DevOps-EDUIT
 Repositorio para la tercera fase del bootcamp de DevOps - EDUIT
 
 Integrantes:
@@ -30,6 +30,5 @@ Linkedin: https://www.linkedin.com/in/daniel-barrionuevo-3669791b6/
 Johnny Sandoval Perdomo - jsandoval_perdomo@hotmail.com - Lider Tecnología - DevOps Bootcamp
 Linkedin: www.linkedin.com/in/johnnysandovalp
 
-Prueba
 
 
