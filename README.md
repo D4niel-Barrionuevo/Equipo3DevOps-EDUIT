@@ -83,3 +83,15 @@ Miembros del equipo
 :book: Bootcamp DevOps Engineer
 
 
+![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/rodri.jpeg)
+
+:man: Rodrigo Riedel
+
+:envelope: rodrigomartinr@gmail.com
+
+:link: https://www.linkedin.com/in/rodrigo-riedel/
+
+:briefcase: DevOps Engineer
+
+:book: Bootcamp DevOps Engineer
+
