@@ -57,7 +57,7 @@ Miembros del equipo
 
 :book: Bootcamp DevOps Engineer
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/descarga.png)
+<img src="./daniel.png" width=300 height=300>
 
 :man: Daniel Barrionuevo
 
@@ -83,7 +83,7 @@ Miembros del equipo
 :book: Bootcamp DevOps Engineer
 
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/rodri.jpeg|width=100px)
+<img src="./rodri.jpeg" width=300 height=300>
 
 :man: Rodrigo Riedel
 
