@@ -44,7 +44,7 @@ Miembros del equipo
 
 :book: Bootcamp DevOps Engineer
 
-
+<img src="./leandro.png" width=300 height=300>
 
 :man: Leandro Ezequiel Gretes 
 
