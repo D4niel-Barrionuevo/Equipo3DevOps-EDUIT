@@ -32,7 +32,7 @@ Miembros del equipo
 
 ### **Programadores:**
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/descarga.png)
+<img src="./nicoc.png" width=300 height=300>
 
 :man: Franco Nicolás Carabelli
 
@@ -45,7 +45,6 @@ Miembros del equipo
 :book: Bootcamp DevOps Engineer
 
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/descarga.png)
 
 :man: Leandro Ezequiel Gretes 
 
@@ -70,7 +69,6 @@ Miembros del equipo
 :book: Bootcamp DevOps Engineer
 
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/descarga.png)
 
 :man: Johnny Sandoval Perdomo 
 
@@ -83,7 +81,7 @@ Miembros del equipo
 :book: Bootcamp DevOps Engineer
 
 
-<img src="./rodri.jpeg" width=300 height=300>
+<img src="./rodri.png" width=300 height=300>
 
 :man: Rodrigo Riedel
 
