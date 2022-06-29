@@ -18,7 +18,7 @@ Miembros del equipo
 		
 ### **Scrum Master:**
 
-![](https://github.com/NGBarisci/Equipo3DevOps-EDUIT/blob/test/descarga.png)
+<img src="./nico.png" width=300 height=300>
 
 :man: Nicolas Barisci 
 
