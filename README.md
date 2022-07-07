@@ -46,7 +46,7 @@ Miembros del equipo
 
 <img src="./leandro.png" width=300 height=300>
 
-:man: Leandro Ezequiel Gretes 
+:man: Leandro Ezequiel Fretes 
 
 :envelope: mail ezek_2004@hotmail.com
 
@@ -68,7 +68,7 @@ Miembros del equipo
 
 :book: Bootcamp DevOps Engineer
 
-
+<img src="./jhony.png" width=300 height=300>
 
 :man: Johnny Sandoval Perdomo 
 
@@ -87,9 +87,21 @@ Miembros del equipo
 
 :envelope: rodrigomartinr@gmail.com
 
-:link: https://www.linkedin.com/in/rodrigo-riedel/
+:link: www.linkedin.com/in/rodrigo-riedel/
 
 :briefcase: DevOps Engineer
+
+:book: Bootcamp DevOps Engineer
+
+<img src="./joaquin.png" width=300 height=300> 
+
+:man: Joaquín Mario Andrés Orue 
+
+:envelope: joaquin.orue@gmail.com
+
+:link: www.linkedin.com/in/joaquin-orue-501737a2/
+
+:briefcase: Cloud Engineer
 
 :book: Bootcamp DevOps Engineer
 
