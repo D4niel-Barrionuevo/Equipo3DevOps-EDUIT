@@ -17,7 +17,7 @@ function App() {
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#integrantes">INTEGRANTES</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#members">INTEGRANTES</a></li>
                         <li class="nav-item"><a class="nav-link" href="#topics">TEMAS</a></li>
                         <li class="nav-item"><a class="nav-link" href="#technologies">TECNOLOGÍAS</a></li>
                     </ul>
@@ -39,8 +39,8 @@ function App() {
                 </div>
             </div>
         </header>
-        {/* About */}
-        <section class="page-section bg-primary" id="integrantes">
+        {/* Group Members */}
+        <section class="page-section bg-primary" id="members">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 text-center">
@@ -110,7 +110,7 @@ function App() {
                 </div>
             </div>
         </section>
-        {/* Services */}
+        {/* Topics */}
         <section class="page-section" id="topics">
             <div class="container px-4 px-lg-5">
                 <h2 class="text-center mt-0">TEMAS TRATADOS EN BOOTCAMP</h2>
@@ -167,7 +167,7 @@ function App() {
         <section class="page-section bg-dark text-white" id="technologies">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4 text-primary">TECNOLOGÍAS</h2>
-                <p class="mb-4 text-primary-75">En el campo hemos aprnedido las siguientes tecnologías</p>
+                <p class="mb-4 text-primary-75">En el campus hemos aprnedido las siguientes tecnologías</p>
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-1 col-md-6 text-center">
                         <div class="mt-5 text-primary">
