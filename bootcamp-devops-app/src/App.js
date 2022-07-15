@@ -167,7 +167,7 @@ function App() {
         <section class="page-section bg-dark text-white" id="technologies">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4 text-primary">TECNOLOGÍAS</h2>
-                <p class="mb-4 text-primary-75">En el campus hemos aprnedido las siguientes tecnologías</p>
+                <p class="mb-4 text-primary-75">En este campus hemos aprnedido las siguientes tecnologías</p>
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-1 col-md-6 text-center">
                         <div class="mt-5 text-primary">
